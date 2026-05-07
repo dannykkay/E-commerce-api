@@ -27,7 +27,7 @@ A fully-featured RESTful e-commerce API built with Node.js, Express, and MongoDB
 - **Validation:** validator, Joi
 - **File Upload:** express-fileupload
 - **Security:** helmet, xss-clean, express-mongo-sanitize, express-rate-limit, cors
-- **Dev Tools:** nodemon, morgan, jsdoc
+- **Dev Tools:** nodemon, morgan, jsdoc, Postman
 
 ---
 
