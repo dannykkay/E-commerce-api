@@ -1,3 +1,2 @@
-
-public/** linguist-vendored=true
-public/** linguist-detected=false
+public/index.html linguist-vendored=true
+public/uploads/** linguist-vendored=true
